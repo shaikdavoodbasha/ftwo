@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ftwo/static/css/main.27942131.css",
+    "main.js": "/ftwo/static/js/main.415edcd2.js",
+    "static/js/453.8ae3ac38.chunk.js": "/ftwo/static/js/453.8ae3ac38.chunk.js",
+    "index.html": "/ftwo/index.html",
+    "main.27942131.css.map": "/ftwo/static/css/main.27942131.css.map",
+    "main.415edcd2.js.map": "/ftwo/static/js/main.415edcd2.js.map",
+    "453.8ae3ac38.chunk.js.map": "/ftwo/static/js/453.8ae3ac38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27942131.css",
+    "static/js/main.415edcd2.js"
+  ]
+}
